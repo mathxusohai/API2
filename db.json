@@ -1,0 +1,8 @@
+{
+"disciplinas": [
+{"id": 1, "titulo": "Programação web front-end", "codigo": "PWFE},
+{"id": 2, "titulo": "Programação web back-end", "codigo": "PWBE"},
+{"id": 3, "titulo": "Banco de Dados", "codigo": "BCD"},
+{"id": 4, "titulo": "Interfaces para dispositivos móveis", "codigo":"INDMO"}
+ ]
+}
