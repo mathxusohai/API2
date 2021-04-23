@@ -1,8 +1,8 @@
 {
-"disciplinas": [
-{"id": 1, "titulo": "Programação web front-end", "codigo": "PWFE},
-{"id": 2, "titulo": "Programação web back-end", "codigo": "PWBE"},
-{"id": 3, "titulo": "Banco de Dados", "codigo": "BCD"},
-{"id": 4, "titulo": "Interfaces para dispositivos móveis", "codigo":"INDMO"}
+"Tabela": [
+{"id": 1, "Produto": "Salgadinho", "Preço": "R$10,00"},
+{"id": 2, "Produto": "Refrigerante - CocaCola", "Preço": "R$15,00"},
+{"id": 3, "Produto": "Miojo", "Preço": "R$3,00"},
+{"id": 4, "Produto": "Cerveja", "Preço":"R$ 4,00"}
  ]
 }
